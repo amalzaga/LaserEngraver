@@ -1,0 +1,4 @@
+Line 3080 of laserengraver.py changed to solve a bug due to changes in Inkscape release 0.92, old line commented. Now it works!
+Fix found online and aplied by Amador Alzaga
+
+amadoralzaga.com an open enginnering DIY site
